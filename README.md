@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dang Dinh Khai<br>Computer Science<br>K67 - School of Information and Communications Technology<br>Focus on Software, Web, App, GUI<br>
+Dang Dinh Khai<br>Live in Hanoi<br>Computer Science<br>K67 - School of Information and Communications Technology<br>Focus on Software, Web, App, GUI<br>
 
 
 # 💻 Tech Stack:
